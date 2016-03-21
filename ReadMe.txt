@@ -1,0 +1,1 @@
+cmd:thrift-0.9.3.exe -gen csharp hello.thrift
